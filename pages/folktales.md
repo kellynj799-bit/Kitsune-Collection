@@ -2,6 +2,8 @@ Title: Kistune Folktales
 layout: about
 permalink: /folktales.md
 
+## Folktales
+
 The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
 
 AKA: Bake Kitsune, changing fox; Yako, field fox; Yoko, bewitching or calamitous fox; Kyubi no Kitsune, nine-tailed fox
