@@ -1,7 +1,8 @@
+---
 Title: Kistune Folktales
 layout: about
-permalink: /folktales.md
-
+permalink: /folktales.html
+---
 ## Folktales
 
 The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
